@@ -1,6 +1,6 @@
 {
-  "files": 51,
-  "bytes": 239258,
+  "files": 62,
+  "bytes": 269049,
   "entries": [
     {
       "path": ".gitignore",
@@ -33,6 +33,11 @@
       "sha256": "9c0cc59f5d947a1536e400bf6654f439ec32c9395a195df369a2a0f7d46f9291"
     },
     {
+      "path": "apps/kol-recorder-extension/create_blank_workbook.py",
+      "bytes": 1014,
+      "sha256": "1d9055b42480b41d4c3057d27320a2ed81caced041f9c5b5e7e9933139833557"
+    },
+    {
       "path": "apps/kol-recorder-extension/kol_bookmarklet.txt",
       "bytes": 206,
       "sha256": "5ce41133641a5713f1d4495d94c572ed1eb9642de149eb8c3fb082378b02facd"
@@ -40,7 +45,17 @@
     {
       "path": "apps/kol-recorder-extension/kol_recorder_server.py",
       "bytes": 16490,
-      "sha256": "ebffe3560e9386c595dcd484eccccff25cd62ac8354854c7445d4581787f54b9"
+      "sha256": "8a8bc67b3fab7b89dd99ee0c3e62b3569bbcb9e4b424f1d351baf39e8d3e99f2"
+    },
+    {
+      "path": "apps/kol-recorder-extension/README.en.md",
+      "bytes": 2666,
+      "sha256": "2db02c2403888d47ccd582cbfed0603e674f43e9bb4f366aa66c5f94515083d3"
+    },
+    {
+      "path": "apps/kol-recorder-extension/README.md",
+      "bytes": 2600,
+      "sha256": "227f2510bc9629c00f40c521dd2dcbba2f5c782e9c63ecac055c9e9d7c711223"
     },
     {
       "path": "apps/kol-recorder-extension/requirements.txt",
@@ -80,7 +95,7 @@
     {
       "path": "apps/kol-recorder-extension/Varla_KOL_Recorder_Chrome便携包_文件夹/kol_recorder_server.py",
       "bytes": 10214,
-      "sha256": "04f377be09fac1a32927874d1f9845ee93b9f36047a8d92224a1dbadd83744aa"
+      "sha256": "ee179e0d117a2f62a490d8ad54626729c7d97201af6b061b2b58b20ad2b45c99"
     },
     {
       "path": "apps/kol-recorder-extension/Varla_KOL_Recorder_Chrome便携包_文件夹/KOL记录器_Chrome使用说明.txt",
@@ -125,7 +140,7 @@
     {
       "path": "apps/kol-recorder-extension/Varla_KOL_Recorder_portable_clean/kol_recorder_server.py",
       "bytes": 10214,
-      "sha256": "04f377be09fac1a32927874d1f9845ee93b9f36047a8d92224a1dbadd83744aa"
+      "sha256": "ee179e0d117a2f62a490d8ad54626729c7d97201af6b061b2b58b20ad2b45c99"
     },
     {
       "path": "apps/kol-recorder-extension/Varla_KOL_Recorder_portable_clean/KOL记录器_使用说明.txt",
@@ -141,6 +156,11 @@
       "path": "apps/kol-recorder-extension/Varla_KOL_Recorder_portable_clean/start_kol_recorder.bat",
       "bytes": 326,
       "sha256": "ca300ea7b5d67cf0a40f6776caedcdd5d9f9682e04e38a6d05963daf857bad19"
+    },
+    {
+      "path": "apps/kol-recorder-extension/初始化空白台账.cmd",
+      "bytes": 69,
+      "sha256": "3469c1a03ffb5d5f36a89df4a85ecdad6204f22f6d26606cd0aa98fca0245e2b"
     },
     {
       "path": "apps/varla-kol-collector/chrome_extension/content.js",
@@ -173,9 +193,14 @@
       "sha256": "391afcbca34b16ccbfed07f4f8d2492dd91561f98c64eb738cf1c3faefa82ba4"
     },
     {
+      "path": "apps/varla-kol-collector/KOL_recorder/create_blank_workbook.py",
+      "bytes": 1014,
+      "sha256": "1d9055b42480b41d4c3057d27320a2ed81caced041f9c5b5e7e9933139833557"
+    },
+    {
       "path": "apps/varla-kol-collector/KOL_recorder/kol_recorder_server.py",
       "bytes": 17555,
-      "sha256": "8c5c12d0376baa2b2b875facc39d5c41498127c97f0a3dcb81d4dacbae964b62"
+      "sha256": "b88d40bb63d8e0cf48c62363bb43dc951f7bfbd9a534bb312663fbfbe874891e"
     },
     {
       "path": "apps/varla-kol-collector/KOL_recorder/requirements.txt",
@@ -186,6 +211,21 @@
       "path": "apps/varla-kol-collector/KOL_recorder/start_kol_recorder.bat",
       "bytes": 1329,
       "sha256": "a6f0504df13f9aa1a161ff737fa38b1630dff6164f15f8e1d7197292a9fbecd3"
+    },
+    {
+      "path": "apps/varla-kol-collector/KOL_recorder/初始化空白台账.cmd",
+      "bytes": 69,
+      "sha256": "3469c1a03ffb5d5f36a89df4a85ecdad6204f22f6d26606cd0aa98fca0245e2b"
+    },
+    {
+      "path": "apps/varla-kol-collector/README.en.md",
+      "bytes": 2753,
+      "sha256": "a7d0c0a57e3ce1e64948cc394217db7b8b9eeadf8f673c8f1a1919153081d8a4"
+    },
+    {
+      "path": "apps/varla-kol-collector/README.md",
+      "bytes": 2665,
+      "sha256": "7741b622f582772281a00f0e9880b27e5d48585cde70b560e2688a7c77adb00d"
     },
     {
       "path": "apps/varla-kol-collector/README_USE.txt",
@@ -238,9 +278,24 @@
       "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
     },
     {
+      "path": "README.en.md",
+      "bytes": 5172,
+      "sha256": "c7955b467b1b718a808413e693aaed2b04d3f074f725ca93833c59a477ec15f4"
+    },
+    {
       "path": "README.md",
-      "bytes": 1082,
-      "sha256": "36ee20650845125956c0e5c0150a941191d8bb3f2025d0edc398184008956e39"
+      "bytes": 4918,
+      "sha256": "4b213fd6a5f9bf0e0eebf976a4e02ca085b01c1979d8c881927aed22b8202cbb"
+    },
+    {
+      "path": "skill/kol建联数据表格skill/README.en.md",
+      "bytes": 4042,
+      "sha256": "b9d46050f7f0e45a666e3402381d495bdf3c2f70f82e3b509402a9d174c81674"
+    },
+    {
+      "path": "skill/kol建联数据表格skill/README.md",
+      "bytes": 3891,
+      "sha256": "7b21b988070c259439541d30ebe124723e79d05c2f5d9be710dddf30e5a028f9"
     },
     {
       "path": "skill/kol建联数据表格skill/SKILL.md",
